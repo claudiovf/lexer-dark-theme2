@@ -1,0 +1,22 @@
+{
+    "name": "lexer-dark-theme2",
+    "displayName": "lexer-dark-theme2",
+    "description": "",
+    "publisher": "vscodecloud",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lexer Dark Theme 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lexer Dark Theme 2-color-theme.json"
+            }
+        ]
+    }
+}
